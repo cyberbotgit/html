@@ -1,0 +1,119 @@
+<html>
+<head>
+<title> Curriculum Vitae </title>
+</head>
+
+<p>
+<style type="text/css">
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+<body>
+<center>
+<h1>
+<u> Curriculum Vitae </u>
+</h1>
+
+<hr>
+<h2>
+<u> PERSONAL DETAILS:--</u>
+</h2>
+</center>
+
+<b> NAME         : </b>  VISHAL RASTOGI<br>
+<b> FATHER NAME : </b> Mr.MADAN LAL RASTOGI<br>
+<b> EMAIL        : </b> vishal.rastogi3334@gmail.com<br>
+<b>MOBILE NO.   :</b> 8295144564<br>
+<b> DOB          : </b>15/08/1997 <br>
+<b> ADDRESS      :</b> DURGESH NAGAR, MORADABAD (U.P.) 244001<br>
+<b> LANGUAGE     :</b> HINDI,ENGLISH<br>
+ <b>HOBBIES      :</b> READING,WRITING,TRAVELLING,CODING,TABLE TENNIS,SWIMMING<hr>
+
+<h2 align="center"><div><u>CAREER OBECTIVE  :</u></div> </h2>
+
+  <h3><i>To build career in a growing organisation;
+   I want to work with a organisation
+  where i can get opportunities to prove and improve my abilities <br>
+  fulfilling the goal and climb the career ladder through continous learning and commitment.
+  </i>
+  </h3>
+  <hr>
+
+<h2 align="center">
+<u> ACADEMIC QUALIFICATION:--</u>
+</h2>
+<table width =100%>
+<tr>
+      <th> Qualification </th>
+      <th> Board/University </th>
+      <th> School/College </th>
+      <th> Year Of Passing </th>
+      <th> Percentage/SGPA </th>
+</tr>
+
+
+
+<tr> 
+      <th> M.TECH </th>
+      <th> IIT </th>
+      <th> IIT MUMBAI </th>
+      <th> 2011 </th>
+      <th> 93% </th>
+</tr>
+
+<tr> 
+      <th> B.TECH </th>
+      <th> NIT </th>
+      <th> NIT KURUKSHETRA </th>
+      <th> 2009 </th>
+      <th> 9.5 </th>
+</tr>
+
+<tr> 
+      <th> 12th </th>
+      <th> C.B.S.E. BOARD </th>
+      <th> GANDHI NAGAR PUBLIC SCHOOL </th>
+      <th> 2005 </th>
+      <th> 95.8% </th>
+</tr>
+
+<tr> 
+      <th> 10th </th>\
+      <th> C.B.S.E BOARD </th>
+      <th> GANDHI NAGAR PUBLIC SCHOOL  </th>
+      <th> 2003 </th>
+      <th> 10 CGPA </th>
+</tr>
+</table>
+<hr>
+<h2 align="center">
+<u>SKILLS:--</u>
+</h2>
+
+<h3><li> CREATIVE SKILL</li> </h3> <h5> Web designer,Start-up enthusiast , Oratory </h5>
+<h3><li> EXPERT IN ACTIVITIES</li> </h3>
+<h5> Coding,Collaboration,Communication,Photoshop,Microshoft Office,and solving any real time problem</h5>
+<h3><li> PROBLEM SOLVING</li> </h3>
+<h5> Low budget project with time constrains;Good organiser </h5>
+<hr>
+
+<h2 align="center">
+ <u> REFERENCES:--</u>
+</h2>
+
+<ul>
+    <h3>
+    NAME        : ASHISH KEDIA<hr>
+    DESIGNATION : SOFTWARE ENGINEER AT GOOGLE <hr>
+    EMAIL       : kediashis1234@gmail.com <hr>
+    MOBILE NO.  : 9619284798 <hr>
+    </h3>
+</ul>
+</body>
+</p>
+</html>
+
+
+ 
