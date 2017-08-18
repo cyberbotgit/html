@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Timetable</title>
+</head>
+
+<style type="text/css">
+body {
+	background-color: powderblue;
+}
+table tr:nth-child(even) {
+    background-color: #fff;
+}
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
+table th {
+    color:black;
+    background-color: #eee;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+td{
+	text-align: center;
+}
+table td#01{
+	text-decoration-color: blue;
+	background-color: black;
+}
+</style>
+
+<body>
+<h1 align="center">Timetable</h1>
+
+<table align="center" width="100%">
+<caption>IT 2</caption>
+	<tr>
+		<th>Days</th>
+		<th>8:30</th>
+		<th>9:25</th>
+		<th>10:40</th>
+		<th>11:35</th>
+		<th>12:30</th>
+		<th>1:45</th>
+		<th>2:40</th>
+		<th>3:35</th>
+		
+		
+	</tr>
+	<tr>
+	<th>Monday</th>
+	<td>DS TUT</td>
+	<td>DE TUT</td>
+	<td colspan="2">WEB D LAB</td>
+	<td id="01">Break</td>
+	<td>DE</td>
+	<td>WEB D</td>
+	<td>PDFS</td>
+	
+	
+	</tr>
+
+	<th>Tuesday</th>
+	<td colspan="2">OOPS LAB</td>
+	<td>DS</td>
+	<td>OB</td>
+	<td id="01">Break</td>
+	<td  colspan="2">PDFS LAB</td>
+	<td>DE</td>
+	</tr>
+
+	<th>Wednesday</th>
+	<td>OOPS</td>
+	<td>PDFS</td>
+	<td>DE</td>
+	<td>DS</td>
+	<td id="01">Break</td>
+	<td>OB TUT</td>
+	<td colspan="2">DE LAB</td>
+	</tr>
+
+	<th>Thursday</th>
+	<td>WEB D TUT</td>
+	<td>PDFS TUT</td>
+	<td>OOPS TUT</td>
+	<td>OB</td>
+	<td id="01">Break</td>
+	<td>WEB D</td>
+	<td>DS</td>
+	<td>OOPS</td>
+	</tr>
+
+	<th>Friday</th>
+	<td>OOPS</td>
+	<td>DS</td>
+	<td colspan="3">DS LAB</td>
+	<td id="01">Break</td>
+	<td>WEB D</td>
+	<td>PDFS</td>
+	</tr>
+</table>
+
+</body>
+</html>
